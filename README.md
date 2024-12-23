@@ -6,7 +6,7 @@
 💬 Ask me about how to write a standup comedy jokes<br/>
 📫 How to reach me: shiyuan.liang1010@gmail.com<br/>
 😄 Pronouns: She/Her<br/>
-⚡ Fun fact: I recognize one of the oldest writing system oracle-bone script in the world!
+⚡ Fun fact: I recognize one of the oldest writing system in the world, since I studied oracle-bone script in my balchelor study.
 
 ### Tech Stack
 
