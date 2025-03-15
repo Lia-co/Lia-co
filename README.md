@@ -1,7 +1,8 @@
 ### Hi I'm Lia, who is facinated about data and performance arts.  👋
 
 <br/>
-🔭 I'm currently working on a data science project about gender-based violence<br/>
+🔭 I'm currently working on a data science project about gender-based violence
+https://github.com/Lia-co/Know-Her-Techlabs<br/>
 🤔 I’m looking for help with data science and career transition<br/>
 💬 Ask me about how to write a standup comedy jokes<br/>
 📫 How to reach me: shiyuan.liang1010@gmail.com<br/>
