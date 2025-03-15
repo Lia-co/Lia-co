@@ -1,10 +1,10 @@
 ### Hi I'm Lia, who is facinated about data and performance arts.  👋
 
 <br/>
-🔭 I'm currently working on a data science project about gender-based violence
+🔭 I'm currently working on a data science project about gender-based violence<br/>
 https://github.com/Lia-co/Know-Her-Techlabs<br/>
 🤔 I’m looking for help with data science and career transition<br/>
-💬 Ask me about how to write a standup comedy jokes<br/>
+💬 Ask me about how to write some standup comedy jokes<br/>
 📫 How to reach me: shiyuan.liang1010@gmail.com<br/>
 😄 Pronouns: She/Her<br/>
 ⚡ Fun fact: I recognize one of the oldest writing system in the world, since I studied oracle-bone script in my balchelor study.
