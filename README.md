@@ -1,14 +1,11 @@
-### Hi I'm Lia, who is facinated about data and performance arts.  👋
+### Hi I'm Lia, who is facinated about programming and performance arts.  👋
 
 <br/>
-🔭 I'm currently working on a data science project about gender-based violence<br/>
-https://github.com/Lia-co/Know-Her-Techlabs<br/>
-<br/>
-🤔 I’m looking for help with data science and career transition<br/>
-💬 Ask me about how to write some standup comedy jokes<br/>
+🔭 I'm currently studying at Codam, a branch scholl of 42 global network in Amsterdam<br/>
+
 📫 How to reach me: shiyuan.liang1010@gmail.com<br/>
 😄 Pronouns: She/Her<br/>
-⚡ Fun fact: I recognize one of the oldest writing system in the world, since I studied oracle-bone script in my balchelor study.
+⚡ Fun fact: I recognize one of the oldest writing system in the world, since I studied oracle-bone script during my balchelor study.
 
 ### Tech Stack
 
