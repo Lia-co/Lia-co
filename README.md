@@ -13,15 +13,17 @@
 
 ### My Projects
 
-<br/>
-https://github.com/Lia-co/Artwork_database_project<br/>
+[Codam-42-Milestone0-libft](https://github.com/Lia-co/Codam-42-Milestone0-libft.git)<br/>
+This libft is the milestone 0 subject from Amsterdam Codam (42 curriculmn). The goal is to create a library including useful functions in the future projects and help student to understand from the basics of C language. The required functions include reproducing fucntions from <ctype.h> <stdlib.h> <string.h> and non-standard functions by 42 as well.</br>
+</br>
+[Artwork-database](https://github.com/Lia-co/Artwork_database_project)<br/>
 
 ### GitHub Status
 
 <!--
 Githubs starts from 
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lia-co&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Lia-co's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lia-co&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lia-co&theme=tokyonight&hide_border=false)<br/>
