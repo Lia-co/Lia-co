@@ -12,11 +12,15 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)<br/>
 
 ### My Projects
-
+[Codam-42-Python-Module01](https://github.com/Lia-co/Codam-42-Python-Module01)</br>
+[Codam-42-Python-Module00](https://github.com/Lia-co/Codam-42-Python-Module00)</br>
+[Codam-42-push-swap](https://github.com/Lia-co/Codam-42-Push-Swap)</br>
+[Codam-42-get_next_line](https://github.com/Lia-co/Codam-42-get_next_line)</br>
+[Codam-42-ft_printf](https://github.com/Lia-co/Codam-42-ft_printf)</br>
 [Codam-42-Milestone0-libft](https://github.com/Lia-co/Codam-42-Milestone0-libft.git)<br/>
-This libft is the milestone 0 subject from Amsterdam Codam (42 curriculmn). The goal is to create a library including useful functions in the future projects and help student to understand from the basics of C language. The required functions include reproducing fucntions from <ctype.h> <stdlib.h> <string.h> and non-standard functions by 42 as well.</br>
+Create a library including useful functions in the future projects and help student to understand from the basics of C language. The required functions include reproducing fucntions from <ctype.h> <stdlib.h> <string.h> and non-standard functions by 42 as well.</br>
 </br>
-[Artwork-database](https://github.com/Lia-co/Artwork_database_project)<br/>
+
 
 ### GitHub Status
 
