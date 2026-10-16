@@ -1,9 +1,9 @@
 ### Hi I'm Lia, who is facinated about programming and performance arts.  👋
 
 <br/>
-🔭 I'm currently studying at Codam, a branch scholl of 42 global network in Amsterdam<br/>
+🔭 I'm currently studying computer science at Codam (the coolest coding school in the Netherlands), which belongs to 42 global network<br/>
 
-📫 How to reach me: shiyuan.liang1010@gmail.com<br/>
+📫 How to reach me: shiyuanliang.work@gmail.com<br/>
 😄 Pronouns: She/Her<br/>
 ⚡ Fun fact: I recognize one of the oldest writing system in the world, since I studied oracle-bone script during my balchelor study.
 
@@ -18,8 +18,7 @@
 [Codam-42-get_next_line](https://github.com/Lia-co/Codam-42-get_next_line)</br>
 [Codam-42-ft_printf](https://github.com/Lia-co/Codam-42-ft_printf)</br>
 [Codam-42-Milestone0-libft](https://github.com/Lia-co/Codam-42-Milestone0-libft.git)<br/>
-Create a library including useful functions in the future projects and help student to understand from the basics of C language. The required functions include reproducing fucntions from <ctype.h> <stdlib.h> <string.h> and non-standard functions by 42 as well.</br>
-</br>
+
 
 
 ### GitHub Status
