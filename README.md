@@ -1,11 +1,12 @@
 ### Hi I'm Lia, who is facinated about programming and performance arts.  👋
 
 <br/>
-🔭 I'm currently studying computer science at Codam (the coolest coding school in the Netherlands), which belongs to 42 global network<br/>
+🔭 I'm currently studying computer science at Codam (the coolest coding school 42 global network in the Netherlands)!<br/>
 
+👩🏻‍💻 I am currently working on [Maze Generation Project]((https://github.com/Lia-co/Codam-42-A-Maze-Ing))
+🤹‍♀️ I build a game [Noir Battle](https://andjajas.itch.io/noir-battle-gamejam) with Codam students eshinwas, dijonker, and andjajas in GameJam!
 📫 How to reach me: shiyuanliang.work@gmail.com<br/>
-😄 Pronouns: She/Her<br/>
-⚡ Fun fact: I recognize one of the oldest writing system in the world, since I studied oracle-bone script during my balchelor study.
+⚡ Fun fact: I can read oracle-bone script, one of the oldest writing system in the world.
 
 ### Tech Stack
 
