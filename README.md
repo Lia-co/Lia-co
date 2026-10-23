@@ -3,9 +3,11 @@
 <br/>
 🔭 I'm studying computer science at Codam (the coolest coding school in the Netherlands)!<br/>
 
-👩🏻‍💻 I am currently working on [Maze Generation Project]((https://github.com/Lia-co/Codam-42-A-Maze-Ing))</br>
+👩🏻‍💻 I am currently working on [Maze Generation Project](https://github.com/Lia-co/Codam-42-A-Maze-Ing)</br>
 🤹‍♀️ I build a game [Noir Battle](https://andjajas.itch.io/noir-battle-gamejam) with Codam students eshinwas, dijonker, and andjajas in GameJam!</br>
+</br>
 📫 How to reach me: shiyuanliang.work@gmail.com<br/>
+</br>
 ⚡ Fun fact: I can read oracle-bone script, one of the oldest writing system in the world.</br>
 
 ### Tech Stack
