@@ -1,12 +1,12 @@
 ### Hi I'm Lia, who is facinated about programming and performance arts.  👋
 
 <br/>
-🔭 I'm currently studying computer science at Codam (the coolest coding school 42 global network in the Netherlands)!<br/>
+🔭 I'm studying computer science at Codam (the coolest coding school in the Netherlands)!<br/>
 
-👩🏻‍💻 I am currently working on [Maze Generation Project]((https://github.com/Lia-co/Codam-42-A-Maze-Ing))
-🤹‍♀️ I build a game [Noir Battle](https://andjajas.itch.io/noir-battle-gamejam) with Codam students eshinwas, dijonker, and andjajas in GameJam!
+👩🏻‍💻 I am currently working on [Maze Generation Project]((https://github.com/Lia-co/Codam-42-A-Maze-Ing))</br>
+🤹‍♀️ I build a game [Noir Battle](https://andjajas.itch.io/noir-battle-gamejam) with Codam students eshinwas, dijonker, and andjajas in GameJam!</br>
 📫 How to reach me: shiyuanliang.work@gmail.com<br/>
-⚡ Fun fact: I can read oracle-bone script, one of the oldest writing system in the world.
+⚡ Fun fact: I can read oracle-bone script, one of the oldest writing system in the world.</br>
 
 ### Tech Stack
 
@@ -14,6 +14,7 @@
 
 ### My Projects
 [Codam-42-A-Maze-Ing](https://github.com/Lia-co/Codam-42-A-Maze-Ing)</br>
+[GameJam: Noir Battle](https://andjajas.itch.io/noir-battle-gamejam)
 [Codam-42-Python-Module01](https://github.com/Lia-co/Codam-42-Python-Module01)</br>
 [Codam-42-Python-Module00](https://github.com/Lia-co/Codam-42-Python-Module00)</br>
 [Codam-42-push-swap](https://github.com/Lia-co/Codam-42-Push-Swap)</br>
