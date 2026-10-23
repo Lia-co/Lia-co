@@ -12,6 +12,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)<br/>
 
 ### My Projects
+[Codam-42-A-Maze-Ing](https://github.com/Lia-co/Codam-42-A-Maze-Ing)</br>
 [Codam-42-Python-Module01](https://github.com/Lia-co/Codam-42-Python-Module01)</br>
 [Codam-42-Python-Module00](https://github.com/Lia-co/Codam-42-Python-Module00)</br>
 [Codam-42-push-swap](https://github.com/Lia-co/Codam-42-Push-Swap)</br>
