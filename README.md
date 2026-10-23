@@ -15,14 +15,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)<br/>
 
 ### My Projects
-[Codam-42-A-Maze-Ing](https://github.com/Lia-co/Codam-42-A-Maze-Ing)</br>
-[GameJam: Noir Battle](https://andjajas.itch.io/noir-battle-gamejam)
-[Codam-42-Python-Module01](https://github.com/Lia-co/Codam-42-Python-Module01)</br>
-[Codam-42-Python-Module00](https://github.com/Lia-co/Codam-42-Python-Module00)</br>
-[Codam-42-push-swap](https://github.com/Lia-co/Codam-42-Push-Swap)</br>
-[Codam-42-get_next_line](https://github.com/Lia-co/Codam-42-get_next_line)</br>
-[Codam-42-ft_printf](https://github.com/Lia-co/Codam-42-ft_printf)</br>
-[Codam-42-Milestone0-libft](https://github.com/Lia-co/Codam-42-Milestone0-libft.git)<br/>
+[Codam-42-A-Maze-Ing:](https://github.com/Lia-co/Codam-42-A-Maze-Ing) a reusable maze generation program with UI design</br>
+[GameJam: Noir Battle: ](https://andjajas.itch.io/noir-battle-gamejam) a noir style 2D platformer video game. The world falls into darkness, could you find the brightness back?</br>
+[Codam-42-Python-Module01:](https://github.com/Lia-co/Codam-42-Python-Module01) build community garden scenarios to understand Python's core concepts</br>
+[Codam-42-Python-Module00:](https://github.com/Lia-co/Codam-42-Python-Module00) build garden data management system with OOP</br>
+[Codam-42-push-swap:](https://github.com/Lia-co/Codam-42-Push-Swap) C program focus on working with data algorithm and sorting efficiency</br>
+[Codam-42-get_next_line:](https://github.com/Lia-co/Codam-42-get_next_line) file reading function tackling file descriptors, static variables, and memory management</br>
+[Codam-42-ft_printf:](https://github.com/Lia-co/Codam-42-ft_printf) C program reproduce built in function printf()</br>
+[Codam-42-libft:](https://github.com/Lia-co/Codam-42-Milestone0-libft.git) personal C library with 42 functions <br/>
 
 
 
